@@ -1,0 +1,1 @@
+Criei o index.html na main pra main ficar como default, pq se eu criasse tudo no developer, a branch ficaria como default e a main nao estaria default, ent fiz o index.html na main mesmo, sendo assim mais facil de adminstrar, minha opniiao
